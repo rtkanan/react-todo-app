@@ -1,4 +1,4 @@
-- add cdn links for reactjs
+- add cdn links for reactjs in index.html
 - place empty div <div id="root"></div> in index.html
 - create app.jsx under src directory to update the data in above mentioned div tag
 - It doesn't work as expected hence we need to follow below steps
